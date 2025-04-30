@@ -1,0 +1,7 @@
+.card{
+    background-image: url("jharna.jpg");
+    height: 80vh;
+    width: 80vw;
+    background-size: cover;
+    background-blend-mode: lighten;
+}
